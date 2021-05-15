@@ -1,0 +1,7 @@
+{
+    "error": {
+        "code": 500,
+        "message": "Faltan parametros",
+        "description": "Error en el servcio."
+    }
+}

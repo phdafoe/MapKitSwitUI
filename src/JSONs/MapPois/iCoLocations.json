@@ -1,0 +1,74 @@
+{
+  "locationsResponseData":[
+    {
+        "id": 1,
+        "descriptionInfo": "El palacio de Liria puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, El palacio de Liria",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/barcelona@2x.png",
+        "latitude":40.427825, 
+        "longitude": -3.712205 
+    },
+    {
+        "id": 2,
+        "descriptionInfo": "La Plaza de españa puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, Plaza de España",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/beniarbeig@2x.png",
+        "latitude":40.425195, 
+        "longitude": -3.711990
+    },
+    {
+        "id": 3,
+        "descriptionInfo": "La Plaza 2 de Mayo puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, La Plaza 2 de Mayo",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/buitragodelozoya@2x.png",
+        "latitude":40.427270, 
+        "longitude": -3.703997 
+    },
+    {
+        "id": 4,
+        "descriptionInfo": "El Parque el Retiro puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, El Parque el Retiro",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/bunyol@2x.png",
+        "latitude":40.416938, 
+        "longitude": -3.683848
+    },
+    {
+        "id": 5,
+        "descriptionInfo": "Las Ventas de Madrid puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, Las Ventas de Madrid",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/palmademallorca@2x.png",
+        "latitude":40.431976, 
+        "longitude": -3.662474
+    },
+    {
+        "id": 6,
+        "descriptionInfo": "El Estadio Santiago Bernabeu Madrid puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, Estadio Santiago Bernabeu",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/valmorel@2x.png",
+        "latitude":40.453401, 
+        "longitude": -3.688653
+    },
+    {
+        "id": 7,
+        "descriptionInfo": "El Museo nacional el Padro Madrid puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, El Museo nacional el Padro",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/zamora@2x.png",
+        "latitude":40.414987, 
+        "longitude": -3.692086
+    },
+    {
+        "id": 8,
+        "descriptionInfo": "La Puerta de Alcalá Madrid puede ser nuestra carrera más corta, pero sigue siendo una de las favoritas entre los corredores nuevos y los que repiten. Es la distancia perfecta para aquellos que buscan comenzar su andadura espartana. Y para los corredores que repiten es una distancia manejable para ver hasta dónde son capaces de llegar. Con 20 obstáculos sobre 5K nunca correrás la misma carrera dos veces. Una vez que completes la Sprint habrás recorrido ya la tercera parte de tu camino hacia la TRIFECTA: el logro espartano definitivo.",
+        "name":"Madrid, La Puerta de Alcalá",
+        "cityImage":"http://www.andresocampo.com/pruebas/iCoSpartanAPI/calendarioImagenes/PARIS@2x.png",
+        "latitude":40.420149, 
+        "longitude": -3.688803
+    }
+  ],
+  "apiError":{
+    "code" : 200,
+    "error":{
+      "message":"ok"
+    }
+  }
+}
